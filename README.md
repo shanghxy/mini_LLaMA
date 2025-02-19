@@ -1,4 +1,3 @@
 # mini_LLaMA
 
-# mini mind 
-# test
+# learning from mini mind 
